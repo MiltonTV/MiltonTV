@@ -242,3 +242,25 @@ http://138.186.23.7:8082/GOLDENEDGE/index.m3u8
 http://177.234.249.178:8888/UNIVISION/index.m3u8
 #EXTINF:-1 tvg-id="GoldenPlus.mx@SD",Golden Plus (1080p)
 http://177.234.249.135:8888/GoldenPlus/index.m3u8
+
+########################################################
+# Grupo: USA Español
+########################################################
+#EXTINF:-1 tvg-id="KFTRDT461.us@HD",KFTR-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
+#EXTINF:-1 tvg-id="KMEXDT341.us@HD",KMEX-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
+#EXTINF:-1 tvg-id="KUVNDT491.us@HD",KUVN-DT1
+https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
+#EXTINF:-1 tvg-id="TUDN.us@SD",TUDN (1080p) [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-id="WFUTDT681.us@HD",WFUT-DT1 (720p) [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
+#EXTINF:-1 tvg-id="WLTVDT231.us@HD",WLTV-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
+#EXTINF:-1 tvg-id="Univision.us@East",Univision (1080p)
+http://200.115.120.1:8000/play/ca106/index.m3u8
+#EXTINF:-1 tvg-id="Univision.us@West",Univision West (1080p)
+http://8an4dgnb.megatv.fun/iptv/8XFKA8883W9M5K/1099/index.m3u8
+#EXTINF:-1 tvg-id="UnivisionTlnovelas.us@SD",Univision Tlnovelas (1080p)
+http://45.6.4.35/TELENOVELAS/index.m3u8
