@@ -10,224 +10,60 @@
 ############################################################
 # Grupo: México
 ############################################################
-#EXTINF:-1 tvg-id="ADN40.mx@SD",ADN 40 (720p)
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="AMXNoticias.mx@SD",AMX Noticias (720p) [Not 24/7]
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD",Azteca Internacional (1080p)
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="Canal22Nacional.mx@SD",Canal 22 Nacional (720p) [Geo-blocked]
-https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal33Tijuana.mx@SD",Canal 33 Tijuana (720p)
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal44.mx@SD",Canal 44 Chihuahua (720p) [Not 24/7]
-https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD",De Pelicula Latin America
-http://181.119.93.83:8000/play/a1jw/index.m3u8
-#EXTINF:-1 tvg-id="GikTVMX.mx@SD",GikTVMX (720p)
-#EXTVLCOPT:http-referrer=https://giktv.com
-https://pistream.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ITVDeportes.mx@SD",ITV Deportes (720p)
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 tvg-id="JaliscoTV.mx@SD",Jalisco TV (720p)
-https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
-#EXTINF:-1 tvg-id="JusticiaTV.mx@SD",Justicia TV (720p)
-https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx@SD",Las Estrellas (1080p)
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="MexiquenseTV.mx@SD",Mexiquense TV (720p)
-https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 tvg-id="XHFGLTDT.mx@SD",Notigram TV (XHFGL-TDT) (1080p)
-https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
-#EXTINF:-1 tvg-id="NueveTV.mx@SD",Nueve TV San LuÃ­s PotosÃ­ (720p)
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
-#EXTINF:-1 tvg-id="PresumiendoMexico.mx@SD",Presumiendo MÃ©xico (720p)
-https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RCGTV.mx@SD",RCG TV (1080p)
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-#EXTINF:-1 tvg-id="RTG.mx@SD",RTG (720p)
-https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m3u8
-#EXTINF:-1 tvg-id="XHUNESTDT.mx@SD",SeÃ±al EspaÃ±a (XHUNES-TDT) (720p)
-https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
-#EXTINF:-1 tvg-id="XHPBZCTDT1.mx@SD",SET TelevisiÃ³n Canal 26.1 (720p) [Not 24/7]
-https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8
-#EXTINF:-1 tvg-id="XHPBZCTDT2.mx@SD",SET TelevisiÃ³n Canal 26.2 (720p) [Not 24/7]
-https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8
-#EXTINF:-1 tvg-id="SIPSETV81.mx@SD",SIPSE TV 8.1 (1080p) [Not 24/7]
-https://webprod.sipse.com.mx:8080/show/merida.m3u8
-#EXTINF:-1 tvg-id="SQCSCanal4.mx@SD",SQCS Canal 4 (1080p)
-https://video0.rogohosting.com:19360/4982/4982.m3u8
-#EXTINF:-1 tvg-id="SuperChannel12.mx@SD",Super Channel 12 (1080p)
-https://servilive.com:3263/live/channel12live.m3u8
-#EXTINF:-1 tvg-id="TeleFormula.mx@SD",TeleFÃ³rmula (720p)
-https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="XEWHTDT.mx@SD",Telemax (XEWH-TDT) (1080p)
-https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
-#EXTINF:-1 tvg-id="TRCTV.mx@SD",TRC TelevisiÃ³n (720p)
+#EXTINF:-1 tvg-id="TRCTV.mx@SD",TRC TelevisiÃƒÂ³n (720p)
 https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
-#EXTINF:-1 tvg-id="TUDN.mx@SD",TUDN (1080p)
-https://streaming.alwaysdata.net/tudn.php
-#EXTINF:-1 tvg-id="TuristikTV.mx@SD",Turistik TV (720p)
-https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
-#EXTINF:-1 tvg-id="TVLobo.mx@SD",TV Lobo Durango (720p)
-https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMarLaPaz.mx@SD",TV Mar La Paz (1080p)
-https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMarPuertoVallarta.mx@SD",TV Mar Puerto Vallarta (1080p)
-https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUJAT.mx@SD",TV UJAT (XHUJAT-TDT) (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
-#EXTINF:-1 tvg-id="XHGVTDT.mx@SD",TVMÃS (XHGV-TDT) (360p) [Not 24/7]
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPObregon.mx@SD",TVP ObregÃ³n (720p) [Not 24/7]
-https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="UltraTVPuebla.mx@SD",Ultra TV Puebla (720p) [Not 24/7]
-https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCuatro43.mx@SD",TV Cuatro 4.3 (1080p)
 https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8
-#EXTINF:-1 tvg-id="TVCuatro44.mx@SD",TV Cuatro 4.4 (1080p)
-https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
-#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@Panregional",Univision Latin America (1080p)
-http://138.121.15.230:9002/UNIVISION/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD",Las Estrellas Latin America (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMigrante.mx@SD",TV Migrante (720p)
-https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
 #EXTINF:-1 tvg-id="Panico.mx@SD",Panico (576p)
 http://181.78.8.199:8000/play/a0bt/index.m3u8
 #EXTINF:-1 tvg-id="PopcornCentral.mx@SD",Popcorn Central (1080p)
 https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
-#EXTINF:-1 tvg-id="AntenaTV.mx@SD",Antena TV
-https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
-#EXTINF:-1 tvg-id="ImagenTV.mx@SD",Imagen TV (1080p)
-https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden (720p)
 http://177.234.249.135:8888/Golden/index.m3u8
-#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx",Univision Latin America (1080p)
-http://177.234.249.135:8888/Univision/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD",Las Estrellas Latin America (1080p)
-http://177.234.249.135:8888/LasEstrellas/index.m3u8
-#EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx@SD",Tlnovelas Latin America (1080p)
-http://177.234.249.135:8888/Telenovelas/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx@SD",National Geographic (1080p)
 http://138.121.15.230:9002/NAT-GEO/index.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional",Golden Edge (1080p)
 http://138.186.23.7:8082/GOLDENEDGE/index.m3u8
-#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@SD",Univision Latin America (1080p)
-http://177.234.249.178:8888/UNIVISION/index.m3u8
 #EXTINF:-1 tvg-id="GoldenPlus.mx@SD",Golden Plus (1080p)
 http://177.234.249.135:8888/GoldenPlus/index.m3u8
 
 ########################################################
 # Grupo: USA Español
 ########################################################
-#EXTINF:-1 tvg-id="Univision.us@West",Univision West (1080p)
-http://8an4dgnb.megatv.fun/iptv/8XFKA8883W9M5K/1099/index.m3u8
-#EXTINF:-1 tvg-id="UniMas.us@Mountain",UniMas Mountain (1080p)
-http://168.228.44.241:9997/play/a09e/index.m3u8
-#EXTINF:-1 tvg-id="UniMas.us@West",UniMas West (1080p) [Geo-blocked]
-http://108.181.20.255:27347/livehttpplay?channel_id=23093
-#EXTINF:-1 tvg-id="UniMas.us@East",UniMas (720p)
-http://108.181.20.255:27347/livehttpplay?channel_id=23094
 #EXTINF:-1 tvg-id="TelemundoAlDia.us@HD",Telemundo Al Dia
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional",Star Channel Latin America (1080p)
 http://177.234.249.178:8888/STAR-CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="TelemundoInternacional.us@CentralAmerica",Telemundo Internacional Central America (1080p)
-http://190.60.46.156:8089/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us@SD",Hola! TV Latin America (1080p)
 http://177.234.249.178:8888/HOLA-TV/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional",History 2 Latin America (1080p)
 http://177.234.249.178:8888/HISTORY2/index.m3u8
 #EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional",History Latin America (1080p)
 http://177.234.249.178:8888/HISTORY/index.m3u8
-#EXTINF:-1 tvg-id="NASA.us" tvg-name="NASA+" tvg-language="English" group-title="Documentales" tvg-country="US",NASA+
 
 ########################################################
 # Grupo: Perú
 ########################################################
-#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD",America Television (1080p)
-http://45.171.108.253:8888/AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD",Panamericana TV (1080p)
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
-#EXTINF:-1 tvg-id="Latina.pe@SD",Latina (1080p)
-http://45.171.108.253:8888/LATINA/index.m3u8
-#EXTINF:-1 tvg-id="Latina.pe@SD",Latina (1080p)
-https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
 #EXTINF:-1 tvg-id="LatinaNoticias247.pe@SD",Latina Noticias 24/7 (720p)
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/antenauno.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe@SD",ATV Sur (720p)
 https://dnhmqt6n0lkaq.cloudfront.net/ts:abr.m3u8
-#EXTINF:-1 tvg-id="ATVPlus.pe@SD",ATV+ (1080p)
-http://45.171.108.253:8888/ATV/index.m3u8
-#EXTINF:-1 tvg-id="CanalN.pe@SD",Canal N (576p)
-http://8.243.126.131:8000/play/a058/index.m3u8
-#EXTINF:-1 tvg-id="ExitosaTV.pe@SD",Exitosa TV (720p)
-http://187.102.210.46/EXITOSA/index.m3u8
-#EXTINF:-1 tvg-id="WillaxTV.pe@SD",Willax TV (720p)
-http://187.102.210.46/WILLAX/index.m3u8
 
 ########################################################
 # Grupo: Películas
 ########################################################
-#EXTINF:-1 tvg-id="24HourFreeMovies.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
-#EXTINF:-1 tvg-id="Action24.gr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png" group-title="Movies",Action 24 (1080p)
-http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-tit
-http://45.162.193.35/AMC/index.m3u8
-#EXTINF:-1 tvg-id="AuroraMediaFilms.gt@SD" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="Movies",Aurora Media Films (720p)
-https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-http://46.149.191.217:9009/play/a02d
-#EXTINF:-1 tvg-id="AXNCEE.es@Bulgary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-titl
-#EXTINF:-1 tvg-id="AXNCEE.es@Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" http-user-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://82.78.243.219:45739/play/a01n/index.m3u8
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us@CentralAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg
-http://138.121.15.230:9002/AXN/index.m3u8
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us@Andes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" gro
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/azcinema.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="B4UBhojpuri.in@SD" tvg-logo="https://i.imgur.com/NwOQUDp.png" group-title="Movies",B4U Bhojpuri (1080p)
-https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" group-title="Movies",B4U Kadak (1080p) [Not 24/7]
-https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies",B4U Movies (1080p) [Geo-blocked]
-https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@USA" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies",B4U Movies USA (576p)
-http://41.223.30.230/B4UPLUS/index.m3u8
-#EXTINF:-1 tvg-id="BattlestarGalactica.us@SD" tvg-logo="https://images.pluto.tv/channels/69d7ebff029c431826bd328e/colorLogoPNG_1776982986391.png" group-title="Movies;Series",B
-https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
-#EXTINF:-1 tvg-id="BETCinema.us@SD" tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG_1759338280891.png" group-title="Movies",BET Cinema
-https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
-#EXTINF:-1 tvg-id="BETComedyMovies.us@SD" tvg-logo="https://images.pluto.tv/channels/68c32d88f56983aba40052bd/colorLogoPNG_1759246622596.png" group-title="Movies",BET Comedy M
-https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
-#EXTINF:-1 tvg-id="BETVisionaries.us@SD" tvg-logo="https://images.pluto.tv/channels/663946c1b18d700008d9c168/colorLogoPNG_1759338795452.png" group-title="Movies",BET Visionari
-https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8
-#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/im
-http://103.213.31.109:90/BhojpuriCinema/playlist.m3u8
-#EXTINF:-1 tvg-id="BIZCinema.uz@SD" tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" group-title="Movies",BIZ Cinema (1080p)
-https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
-#EXTINF:-1 tvg-id="BollywoodClassic.ro@HD" tvg-logo="https://i.imgur.com/ugPo6ca.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://dokagents.site/live/bollyc/mono.m3u8
-#EXTINF:-1 tvg-id="BollywoodClassic.ro@SD" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Classic;Movies",Bollywood Classic (1080p)
-http://103.213.31.109:90/BollywoodClassic/playlist.m3u8
-#EXTINF:-1 tvg-id="BollywoodHD.ro@SD" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Movies",Bollywood HD (1080p)
-http://103.213.31.109:90/BollywoodHD/playlist.m3u8
-#EXTINF:-1 tvg-id="BollywoodHD.ro@Russia" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Movies",Bollywood HD Russia (576p)
-https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
-#EXTINF:-1 tvg-id="Bolt.ru@SD" tvg-logo="https://i.imgur.com/YdIHXOR.png" group-title="Movies;Series",Bolt (576p)
-http://hls127.freeott.top:8080/Bolt/video.m3u8
-#EXTINF:-1 tvg-id="Bolt.ua@SD" tvg-logo="https://i.imgur.com/YdIHXOR.png" group-title="Movies;Series",Bolt (1080p)
-http://176.122.125.10:8080/bolt/index.m3u8
-#EXTINF:-1 tvg-id="Bonanza.us@CA" tvg-logo="https://images.pluto.tv/channels/696e647b07ea70192d49f6a5/colorLogoPNG_1768842647658.png" group-title="Movies;Series",Bonanza
-https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
-#EXTINF:-1 tvg-id="Bonanza.us@SD" tvg-logo="https://images.pluto.tv/channels/696e647b07ea70192d49f6a5/colorLogoPNG_1768842647658.png" group-title="Movies;Series",Bonanza
-https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
 #EXTINF:-1 tvg-id="Boreal.do@SD" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Movies",Boreal (720p) [Not 24/7]
 https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BravoFarsiTV.ir@SD" tvg-logo="https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg" group-title="Movies",Bravo Farsi TV (360p)
